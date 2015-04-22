@@ -1,0 +1,56 @@
+A:link{
+	color: #0000ff;
+	height:15px;
+	filter: glow(color=#9966ff,strength=1);
+	text-decoration: none
+}
+A:visited{
+	color: #0000ff;
+	height:15px;
+	filter: glow(color=#9966ff,strength=1);
+	text-decoration: none
+}
+A:hover{
+	color: #ff0000;
+	height:15px;
+	filter: glow(color=#ff0000,strength=1);
+	text-decoration: none
+}
+
+HR{
+	color:#C7AFFF;
+	HEIGHT: 5px
+}
+
+IMG{
+        height: 15px;
+        width: 15px
+}
+
+BODY{
+	background-color:#f0f0ff;
+}
+
+.tb_row_0{
+	font-size:12px;
+	color:#000000;
+	background-color:#DDDDDD
+}
+
+.tb_row_1{
+	font-size:12px;
+	color:#000000;
+	background-color:#CCCCCC
+}
+
+.tb_header{
+	font-size:15px;
+	color:#000000;
+	background-color:#D3DCE3
+}
+
+.head_text{
+	font-size:20px;
+	color:#00ff00;
+	
+}
